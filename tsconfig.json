@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "noImplicitAny": true,    //bao loi khi bien k duoc dinh nghia
+    "removeComments": true,   //xoa cmt khi bien dich sang js
+    "esModuleInterop": true   //dung import thay require
+  }
+}
